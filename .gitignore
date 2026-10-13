@@ -1,0 +1,23 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and databases
+data/*.db
+data/raw/
+data/processed/
+
+# Model artifacts
+models/*
+!models/.gitkeep
+
+# Generated reports
+reports/*.json
+reports/figures/
+
+# Local configuration and secrets
+.env
+*.log
+.DS_Store

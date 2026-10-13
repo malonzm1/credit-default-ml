@@ -1,0 +1,16 @@
+ucimlrepo
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
+matplotlib
+seaborn
+sqlalchemy
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+requests
+pytest
+httpx
